@@ -1,10 +1,5 @@
-Flask
-h5py==3.1.0
+flask
+tensorflow-cpu
 gunicorn
-numpy==1.19.5
-scipy==1.7.3
-Keras
-Pillow
-opencv-python
-Flask-WTF
-tensorflow
+pillow
+numpy
