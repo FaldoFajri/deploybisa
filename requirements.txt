@@ -1,7 +1,7 @@
 Flask
-h5py==2.10.0
+h5py==3.1.0
 gunicorn
-numpy==1.18
+numpy==1.19.5
 scipy==1.7.3
 Keras
 Pillow
